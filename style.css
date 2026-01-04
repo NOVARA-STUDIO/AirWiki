@@ -31,8 +31,9 @@ body {
   border-radius: 4px;
 }
 
-.sidebar li:hover {
-  background: #2f333d;
+.sidebar li:hover,
+.sidebar li.active {
+  background: #444857;
 }
 
 .content {
@@ -47,7 +48,7 @@ body {
 }
 
 .content h2 {
-  margin-top: 20px;
+  margin-top: 25px;
   margin-bottom: 10px;
 }
 
