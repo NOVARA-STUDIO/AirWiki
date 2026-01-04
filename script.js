@@ -7,6 +7,7 @@ function loadContent(section, event) {
   const data = {
     about: `
       <h1>Про гру</h1>
+      <p>Усі характеристики є вигаданими та не є реальними.</p>
     `,
 
     ppo: `
