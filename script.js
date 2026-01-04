@@ -28,7 +28,6 @@ function loadContent(section) {
       </ul>
 
       <p><em>Тут буде опис гри. Напиши загальну ідею, жанр, суть.</em></p>
-
     `,
 
     buildings: `
