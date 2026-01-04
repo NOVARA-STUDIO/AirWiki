@@ -21,7 +21,7 @@ function loadContent(section, event) {
 
       <h2>Х-101</h2>
       <ul>
-        <li><em>Стартова швидкість: 1000</em></li>
+        <li><em>Швидкість: 150-200px/c.</em></li>
         <li><em>Тут буде дальність, швидкість, роль</em></li>
       </ul>
 
