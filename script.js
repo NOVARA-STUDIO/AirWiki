@@ -3,11 +3,6 @@ function loadContent(section, event) {
 
   document.querySelectorAll('.sidebar li').forEach(li => li.classList.remove('active'));
   event.target.classList.add('active');
-
-  .big-gap {
-    margin-top: 50px;
-  }
-
   
   const data = {
     about: `
