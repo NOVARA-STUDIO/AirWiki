@@ -7,7 +7,6 @@ function loadContent(section, event) {
   const data = {
     about: `
       <h1>Про гру</h1>
-      <p><em>Тут буде опис гри.</em></p>
     `,
 
     ppo: `
@@ -50,14 +49,16 @@ function loadContent(section, event) {
       <p><em>Усі характеристики є вигаданими та не є реальними.</em></p>
     `,
 
+    transport: `
+      <h1>Види техніки:</h1>
+    `,
+    
     buildings: `
       <h1>Види будівель:</h1>
-      <p><em>Тут буде опис будівель, їх роль у грі.</em></p>
     `,
 
     map: `
       <h1>Карта</h1>
-      <p><em>Тут буде опис карти, регіонів і механік.</em></p>
     `
   };
 
