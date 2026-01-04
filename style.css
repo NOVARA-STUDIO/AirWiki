@@ -4,13 +4,6 @@ body {
   background: #f4f4f4;
 }
 
-.content {
-  user-select: none;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-}
-
 .container {
   display: flex;
   height: 100vh;
@@ -53,6 +46,11 @@ body {
   padding: 20px;
   background: white;
   overflow-y: auto;
+
+  user-select: text;
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
 }
 
 .content h1 {
