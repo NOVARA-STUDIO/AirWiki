@@ -7,7 +7,7 @@ function loadContent(section, event) {
   const data = {
     about: `
       <h1>Про гру</h1>
-      <p><em>Тут буде опис гри. Напиши загальну ідею, жанр, суть.</em></p>
+      <p><em>Тут буде опис гри.</em></p>
     `,
 
     ppo: `
