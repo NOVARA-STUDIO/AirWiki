@@ -21,6 +21,11 @@ body {
   background: #20232a;
   color: white;
   padding: 15px;
+
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
 }
 
 .sidebar h2 {
