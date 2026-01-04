@@ -13,7 +13,7 @@ function loadContent(section) {
     `,
 
     weapons: `
-      <h1>Озброєння</h1>
+      <h1>Види зброї:</h1>
 
       <h2>Х-101</h2>
         <li><em>Тут буде опис ракети</em></li>
