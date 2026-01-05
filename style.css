@@ -84,18 +84,17 @@ body {
 
 
 
+.img-small {
+  max-width: 50px;
+}
+
 .img-medium {
   max-width: 300px;
 }
 
-.content img {
-  max-width: 50px;
-  width: 100%;
-  display: block;
-  margin: 10px 0 15px 0;
-  border-radius: 6px;
+.img-large {
+  max-width: 500px;
 }
-
 
 
 
