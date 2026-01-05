@@ -108,6 +108,7 @@ function loadContent(section, event) {
 
       
       <h2>Shahed-136</h2>
+      <img src="img/weapons/shaheed136.png" alt="Shahed-136" class="icon">
       <ul>
         <li>Швидкість: 10-15px/c.</li>
         <li>Швидкість повороту: 3px/с.</li>
@@ -117,6 +118,7 @@ function loadContent(section, event) {
 
       
       <h2>Х-101</h2>
+      <img src="img/weapons/x101.png" alt="Х-101" class="icon">
       <ul>
         <li>Швидкість: 150-200px/c.</li>
         <li>Швидкість повороту: 2px/с.</li>
@@ -126,6 +128,7 @@ function loadContent(section, event) {
 
       
       <h2>Х-47М2 «Кинджал»</h2>
+      <img src="img/weapons/Х47М2.png" alt="Х-47М2 «Кинджал»" class="icon">
       <ul>
         <li>Початкова швидкість: 1000px/c. На відстані 500px до цілі швидкість знижується до 200px/c.</li>
         <li>Швидкість повороту: 0px/с.</li>
