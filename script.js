@@ -33,7 +33,7 @@ function loadContent(section, event) {
         <li>Радіус дії: 256px</li>
       </ul>
 
-      <h2 class="big-gap">Air1</h2>
+      <h2>Air1</h2>
       <ul>
         <li>Швидкість: 300px/c.</li>
         <li>Швидкість повороту: 15px/с.</li>
