@@ -4,10 +4,6 @@ body {
   background: #f4f4f4;
 }
 
-.big-gap {
-  margin-top: 500px;
-}
-
 .container {
   display: flex;
   height: 100vh;
