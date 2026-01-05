@@ -78,3 +78,21 @@ body {
   margin-bottom: 8px;
 }
 
+
+
+
+.content img {
+  max-width: 300px;
+  width: 100%;
+  display: block;
+  margin: 10px 0 15px 0;
+  border-radius: 6px;
+}
+
+
+
+
+
+
+
+
