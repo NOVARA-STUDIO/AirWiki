@@ -75,7 +75,7 @@ function loadContent(section, event) {
         <li>Дальність польоту: 200px. При знаходженні цілі дальність збільшується ще на 200px.</li>
       </ul>
 
-      <img src="img/Air1A.png" alt="Air1A ракета" class="icon">
+      <img src="img/Air1A.png" alt="Air1A ракета" class="img-medium">
       <figure>
         <figcaption>Зона захоплення цілі.</figcaption>
       </figure>
@@ -90,7 +90,7 @@ function loadContent(section, event) {
         <li>Дальність польоту: 300px. При знаходженні цілі дальність збільшується ще на 300px.</li>
       </ul>
 
-      <img src="img/Air1B.png" alt="Air1B ракета" class="icon">
+      <img src="img/Air1B.png" alt="Air1B ракета" class="img-medium">
       <figure>
         <figcaption>Зона захоплення цілі.</figcaption>
       </figure>
