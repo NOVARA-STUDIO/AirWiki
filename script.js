@@ -7,9 +7,11 @@ function loadContent(section, event) {
   const data = {
     about: `
       <h1>Про гру</h1>
+      
       <ul>
         <li>Актуальна версія: 1.20</li>
       </ul>
+      
       <iframe frameborder="0" 
           src="https://itch.io/embed/4164169?border_width=3&amp;bg_color=000000&amp;fg_color=ffffff&amp;link_color=b00000&amp;border_color=8a8a8a" 
           width="556" 
@@ -22,6 +24,8 @@ function loadContent(section, event) {
     
     ppo: `
       <h1>Види ППО:</h1>
+
+
       
       <h2>Мобільна Вогнева Група (МВГ)</h2>
       <ul>
@@ -31,6 +35,8 @@ function loadContent(section, event) {
         <li>Радіус дії: 96px.</li>
       </ul>
 
+
+
       <h2>NASAMS</h2>
       <ul>
         <li>Зенітний ракетний комплекс.</li>
@@ -38,6 +44,8 @@ function loadContent(section, event) {
         <li>Скорострільність: 1 ракета/2с.</li>
         <li>Радіус дії: 256px.</li>
       </ul>
+
+
 
       <p>Усі характеристики є вигаданими та не є реальними.</p>
     `,
@@ -47,6 +55,8 @@ function loadContent(section, event) {
     weaponsppo: `
       <h1>Види боєприпасів ППО:</h1>
 
+
+
       <h2>Куля</h2>
       <ul>
         <li>Швидкість: 150px/c.</li>
@@ -54,6 +64,8 @@ function loadContent(section, event) {
         <li>Тип керування: немає.</li>
         <li>Дальність польоту: 225px.</li>
       </ul>
+
+
       
       <h2>Air1A</h2>
       <img src="img/Air1A.png" alt="Air1A ракета" class="icon">
@@ -64,6 +76,14 @@ function loadContent(section, event) {
         <li>Дальність польоту: 200px. При знаходженні цілі дальність збільшується ще на 200px.</li>
       </ul>
 
+      <img src="img/Air1A.png" alt="Air1A ракета" class="icon">
+      <figure>
+        <img src="img/air1a.png" alt="Ракета Air1A">
+        <figcaption>Ракета Air1A — самонаведний боєприпас ППО.</figcaption>
+      </figure>
+
+
+
       <h2>Air1B</h2>
       <img src="img/Air1B.png" alt="Air1B ракета" class="icon">
       <ul>
@@ -73,6 +93,8 @@ function loadContent(section, event) {
         <li>Дальність польоту: 300px. При знаходженні цілі дальність збільшується ще на 300px.</li>
       </ul>
 
+
+
       <p>Усі характеристики є вигаданими та не є реальними.</p>
     `,
 
@@ -80,6 +102,8 @@ function loadContent(section, event) {
     
     weapons: `
       <h1>Види зброї:</h1>
+
+
       
       <h2>Shahed-136</h2>
       <ul>
@@ -87,6 +111,8 @@ function loadContent(section, event) {
         <li>Швидкість повороту: 3px/с.</li>
         <li>Може маневрувати.</li>
       </ul>
+
+
       
       <h2>Х-101</h2>
       <ul>
@@ -94,6 +120,8 @@ function loadContent(section, event) {
         <li>Швидкість повороту: 2px/с.</li>
         <li>Може маневрувати.</li>
       </ul>
+
+
       
       <h2>Х-47М2 «Кинджал»</h2>
       <ul>
@@ -101,6 +129,8 @@ function loadContent(section, event) {
         <li>Швидкість повороту: 0px/с.</li>
         <li>Не може маневрувати.</li>
       </ul>
+
+
       
       <p>Усі характеристики є вигаданими та не є реальними.</p>
     `,
