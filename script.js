@@ -77,7 +77,6 @@ function loadContent(section, event) {
 
       <img src="img/Air1A.png" alt="Air1A ракета" class="icon">
       <figure>
-        <img src="img/air1a.png" alt="Ракета Air1A">
         <figcaption>Ракета Air1A.</figcaption>
       </figure>
 
@@ -93,7 +92,6 @@ function loadContent(section, event) {
 
       <img src="img/Air1B.png" alt="Air1B ракета" class="icon">
       <figure>
-        <img src="img/air1a.png" alt="Ракета Air1A">
         <figcaption>Ракета Air1B.</figcaption>
       </figure>
 
