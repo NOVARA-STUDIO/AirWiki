@@ -14,6 +14,9 @@ function loadContent(section, event) {
         <a href="https://novyra-studio.itch.io/air-defense-ops">Air Defense Ops by NOVYRA STUDIO™</a>
       </iframe>   
     `,
+
+
+    
     ppo: `
       <h1>Види ППО:</h1>
       
@@ -45,6 +48,22 @@ function loadContent(section, event) {
       </div>
 
       <p>Усі характеристики є вигаданими та не є реальними.</p>
+    `,
+
+
+    
+    weaponsppo: `
+      <h1>Види ППО:</h1>
+      <h2>Air1</h2>
+      <ul>
+        <li>Швидкість: 300px/c.</li>
+        <li>Швидкість повороту: 15px/с.</li>
+        <li>Тип керування: самонаведення</li>
+        <li>Дальність польоту: 300px. При знаходженні цілі дальність збільшується ще на 300px.</li>
+      </ul>
+
+
+      
     `,
     weapons: `
       <h1>Види зброї:</h1>
