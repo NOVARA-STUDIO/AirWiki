@@ -68,7 +68,6 @@ function loadContent(section, event) {
 
       
       <h2>Air1A</h2>
-      <img src="img/Air1A.png" alt="Air1A ракета" class="icon">
       <ul>
         <li>Швидкість: 200px/c.</li>
         <li>Швидкість повороту: 14px/с.</li>
@@ -79,19 +78,24 @@ function loadContent(section, event) {
       <img src="img/Air1A.png" alt="Air1A ракета" class="icon">
       <figure>
         <img src="img/air1a.png" alt="Ракета Air1A">
-        <figcaption>Ракета Air1A — самонаведний боєприпас ППО.</figcaption>
+        <figcaption>Ракета Air1A.</figcaption>
       </figure>
 
 
 
       <h2>Air1B</h2>
-      <img src="img/Air1B.png" alt="Air1B ракета" class="icon">
       <ul>
         <li>Швидкість: 300px/c.</li>
         <li>Швидкість повороту: 15px/с.</li>
         <li>Тип керування: самонаведення.</li>
         <li>Дальність польоту: 300px. При знаходженні цілі дальність збільшується ще на 300px.</li>
       </ul>
+
+      <img src="img/Air1B.png" alt="Air1B ракета" class="icon">
+      <figure>
+        <img src="img/air1a.png" alt="Ракета Air1A">
+        <figcaption>Ракета Air1B.</figcaption>
+      </figure>
 
 
 
