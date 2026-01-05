@@ -76,9 +76,21 @@ body {
   margin-bottom: 8px;
 }
 
+
+
+
 .air-section {
   margin-top: 80px;
 }
+
+.air-section h1 {
+  margin-bottom: 5px;
+}
+
+.air-section h2 {
+  margin-top: 5px;
+}
+
 
 
 
