@@ -64,13 +64,6 @@ body {
   margin-bottom: 10px;
 }
 
-
-
-
-.content h1 + h2 {
-  margin-top: 5px;
-}
-
 .content p {
   margin-bottom: 15px;
   line-height: 1.6;
@@ -85,19 +78,3 @@ body {
   margin-bottom: 8px;
 }
 
-
-
-
-
-
-.air-section {
-  margin-top: 80px;
-}
-
-.air-section h1 {
-  margin-bottom: 5px;
-}
-
-.air-section h2 {
-  margin-top: 5px;
-}
