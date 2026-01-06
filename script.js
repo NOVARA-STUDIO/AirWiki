@@ -98,38 +98,36 @@ function loadContent(section, event) {
     
     weapons: `
       <h1>Види зброї:</h1>
-
-
       
-      <h2>Shahed-136</h2>
-      <img src="img/weapons/shaheed136.png" alt="Shahed-136" class="img-small">
-      <ul>
-        <li>Швидкість: 10-15px/c.</li>
-        <li>Швидкість повороту: 3px/с.</li>
-        <li>Може маневрувати.</li>
-      </ul>
+      <div class="ppo-block">
+        <h2>Shahed-136</h2>
+        <img src="img/weapons/shaheed136.png" alt="Shahed-136" class="img-small">
+        <ul>
+          <li>Швидкість: 10-15px/c.</li>
+          <li>Швидкість повороту: 3px/с.</li>
+          <li>Може маневрувати.</li>
+        </ul>
+      </div>
 
+      <div class="ppo-block">
+        <h2>Х-101</h2>
+        <img src="img/weapons/x101.png" alt="Х-101" class="img-small">
+        <ul>
+          <li>Швидкість: 150-200px/c.</li>
+          <li>Швидкість повороту: 2px/с.</li>
+          <li>Може маневрувати.</li>
+        </ul>
+      </div>
 
-      
-      <h2>Х-101</h2>
-      <img src="img/weapons/x101.png" alt="Х-101" class="img-small">
-      <ul>
-        <li>Швидкість: 150-200px/c.</li>
-        <li>Швидкість повороту: 2px/с.</li>
-        <li>Може маневрувати.</li>
-      </ul>
-
-
-      
-      <h2>Х-47М2 «Кинджал»</h2>
-      <img src="img/weapons/Х47М2.png" alt="Х-47М2 «Кинджал»" class="img-small">
-      <ul>
-        <li>Початкова швидкість: 1000px/c. На відстані 500px до цілі швидкість знижується до 200px/c.</li>
-        <li>Швидкість повороту: 0px/с.</li>
-        <li>Не може маневрувати.</li>
-      </ul>
-
-
+      <div class="ppo-block">
+        <h2>Х-47М2 «Кинджал»</h2>
+        <img src="img/weapons/Х47М2.png" alt="Х-47М2 «Кинджал»" class="img-small">
+        <ul>
+          <li>Початкова швидкість: 1000px/c. На відстані 500px до цілі швидкість знижується до 200px/c.</li>
+          <li>Швидкість повороту: 0px/с.</li>
+          <li>Не може маневрувати.</li>
+        </ul>
+      </div>
       
       <p>Усі характеристики є вигаданими та не є реальними.</p>
     `,
