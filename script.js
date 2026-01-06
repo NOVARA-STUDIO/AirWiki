@@ -109,6 +109,7 @@ function loadContent(section, event) {
       <div class="ppo-block">
         <h2>Shahed-136</h2>
         <img src="img/weapons/shaheed136.png" alt="Shahed-136" class="img-small">
+        <img src="img/weapons/shaheed136_n.png" alt="Shahed-136" class="img-small">
         <ul>
           <li>Швидкість: 10-15px/c.</li>
           <li>Швидкість повороту: 3px/с.</li>
