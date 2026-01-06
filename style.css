@@ -1,7 +1,10 @@
+/* --- Загальні стилі --- */
 body {
   margin: 0;
   font-family: Arial, sans-serif;
   background: #f4f4f4;
+  color: #000;
+  transition: background 0.3s, color 0.3s;
 }
 
 .container {
@@ -14,11 +17,7 @@ body {
   background: #20232a;
   color: white;
   padding: 15px;
-
   user-select: none;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
 }
 
 .sidebar h2 {
@@ -46,14 +45,9 @@ body {
   padding: 20px;
   background: white;
   overflow-y: auto;
-
   user-select: text;
-  -webkit-user-select: text;
-  -moz-user-select: text;
-  -ms-user-select: text;
+  transition: background 0.3s, color 0.3s;
 }
-
-
 
 .content h1 {
   margin-bottom: 55px;
@@ -78,28 +72,12 @@ body {
   margin-bottom: 8px;
 }
 
+/* --- Класи для зображень різного розміру --- */
+.img-small { max-width: 50px; }
+.img-medium { max-width: 300px; }
+.img-large { max-width: 500px; }
 
-
-
-
-
-
-.img-small {
-  max-width: 50px;
-}
-
-.img-medium {
-  max-width: 300px;
-}
-
-.img-large {
-  max-width: 500px;
-}
-
-
-
-
-
+/* --- Жовта лінія для блоків ППО --- */
 .ppo-block {
   position: relative;
   padding-left: 16px;
@@ -117,5 +95,41 @@ body {
   border-radius: 2px;
 }
 
+/* --- Теми --- */
+body.dark-theme {
+  background: #121212;
+  color: #e0e0e0;
+}
+
+body.dark-theme .content {
+  background: #1e1e1e;
+}
+
+body.dark-theme .sidebar {
+  background: #0d0d0d;
+}
+
+body.dark-theme .sidebar li:hover,
+body.dark-theme .sidebar li.active {
+  background: #333;
+}
+
+/* --- Кнопка перемикання теми --- */
+.theme-toggle {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  z-index: 10;
+}
+
+.theme-toggle button {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 4px;
+  background: #ffd400;
+  color: #000;
+  cursor: pointer;
+  font-weight: bold;
+}
 
 
