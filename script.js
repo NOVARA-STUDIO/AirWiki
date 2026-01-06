@@ -8,9 +8,17 @@ function loadContent(section, event) {
     about: `
       <h1>Про гру</h1>
       
-      <ul>
-        <li>Актуальна версія: 1.20</li>
-      </ul>
+      <h2>Актуальна версія: 1.20</h2>
+      <h2>Додано/змінено:</h2>
+      <div class="ppo-block">
+        <ul>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
+      </div>
+      
       
       <iframe frameborder="0" 
           src="https://itch.io/embed/4164169?border_width=3&amp;bg_color=000000&amp;fg_color=ffffff&amp;link_color=b00000&amp;border_color=8a8a8a" 
