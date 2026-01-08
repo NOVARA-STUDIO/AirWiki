@@ -131,6 +131,18 @@ function loadContent(section, event) {
           
         </ul>
       </div>
+
+      <div class="ppo-block">
+        <h2>Shahed-238</h2>
+        <img src="img/weapons/shaheed136_n_r.png" alt="Shahed-136" class="img-small">
+        <ul>
+        
+          <li>Швидкість: 40-50px/c.</li>
+          <li>Швидкість повороту: 3px/с.</li>
+          <li>Може маневрувати.</li>
+          
+        </ul>
+      </div>
       
       <div class="ppo-block">
         <h2>Х-101</h2>
