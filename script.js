@@ -194,13 +194,13 @@ function loadContent(section, event) {
     <h1>Гра</h1>
     
     <div class="ppo-block">
-        <h2>Інше:</h2>
-        <ul>
+      <h2>Інше:</h2>
+      <ul>
         
-          <li></li>
+        <li></li>
           
-        </ul>
-      </div>
+      </ul>
+    </div>
     
     <p>Усі характеристики є вигаданими та не є реальними.</p>
     `
