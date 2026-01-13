@@ -58,7 +58,7 @@ function loadContent(section, event) {
       </div>
 
             <div class="ppo-block">
-        <h2>Додано/змінено:</h2>
+        <h2>Зв’язатися з нами.</h2>
         <ul>
         <p>
           <a target="_blank" class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSdrjez7bbkCi3lq20-_vrGnw4W33upYfSGgPSRrlsf7p5ymjg/viewform?usp=dialog">
