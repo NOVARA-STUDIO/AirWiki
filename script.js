@@ -98,6 +98,7 @@ function loadContent(section, event) {
           <li>Швидкість повороту: 0px/с.</li>
           <li>Тип керування: немає.</li>
           <li>Дальність польоту: 225px.</li>
+          <li>Не може маневрувати.</li>
           
         </ul>
       
@@ -110,6 +111,7 @@ function loadContent(section, event) {
           <li>Швидкість повороту: 14px/с.</li>
           <li>Тип керування: самонаведення.</li>
           <li>Дальність польоту: 400px.</li>
+          <li>Може маневрувати.</li>
           
         </ul>
         <img src="img/weaponsppo/Air1A.png" alt="Air1A ракета" class="img-medium">
@@ -124,6 +126,7 @@ function loadContent(section, event) {
           <li>Швидкість повороту: 15px/с.</li>
           <li>Тип керування: самонаведення.</li>
           <li>Дальність польоту: 300px.</li>
+          <li>Може маневрувати.</li>
           
         </ul>
         <img src="img/weaponsppo/Air1B.png" alt="Air1B ракета" class="img-medium">
