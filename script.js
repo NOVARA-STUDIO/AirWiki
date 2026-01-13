@@ -225,6 +225,25 @@ function loadContent(section, event) {
           
       </ul>
     </div>
+
+    <div class="ppo-block">
+      <h2>Маркери::</h2>
+      <ul>
+
+        <h2>БПЛА</h2>
+        <img src="img/marker/circle yellow.png" alt="БПЛА" class="img-small"> 
+  
+        <h2>Реактивний БПЛА</h2>
+        <img src="img/marker/circle purple.png" alt="Реактивний БПЛА" class="img-small">      
+
+        <h2>Kрилата ракета</h2>
+        <img src="img/marker/circle red.png" alt="Kрилата ракета" class="img-small">
+
+        <h2>Аеробалістична ракета</h2>
+        <img src="img/marker/circle blue.png" alt="Аеробалістична ракета" class="img-small">
+        
+      </ul>
+    </div>
     
     <p>Усі характеристики є вигаданими та не є реальними.</p>
     `
