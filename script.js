@@ -56,6 +56,18 @@ function loadContent(section, event) {
           
         </ul>
       </div>
+
+            <div class="ppo-block">
+        <h2>Додано/змінено:</h2>
+        <ul>
+        <p>
+          <a target="_blank" class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSdrjez7bbkCi3lq20-_vrGnw4W33upYfSGgPSRrlsf7p5ymjg/viewform?usp=dialog">
+            Напишіть нам:)
+          </a>
+        </p>
+ 
+        </ul>
+      </div>
     `,
     ppo: `
       <h1>Види ППО:</h1>
