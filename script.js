@@ -256,6 +256,17 @@ function loadContent(section, event) {
       <h2>Маркери::</h2>
       <ul>
 
+        <div class="ppo-block">
+          <ul>
+
+            <h2>БПЛА</h2>
+            <img src="img/marker/circle yellow.png" alt="БПЛА" class="img-small">
+        
+          </ul>
+        </div>
+
+
+         
         <h2>БПЛА</h2>
         <img src="img/marker/circle yellow.png" alt="БПЛА" class="img-small"> 
   
