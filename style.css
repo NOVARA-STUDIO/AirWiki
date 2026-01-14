@@ -79,6 +79,8 @@ body {
 .img-medium { max-width: 300px; }
 .img-large { max-width: 500px; }
 
+
+
 .ppo-block {
   position: relative;
   padding-left: 16px;
@@ -95,6 +97,25 @@ body {
   background: #ffd400;
   border-radius: 2px;
 }
+
+.red-block {
+  position: relative;
+  padding-left: 16px;
+  margin-bottom: 24px;
+}
+
+.red-block::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 4px;
+  height: 100%;
+  background: #ffd400;
+  border-radius: 2px;
+}
+
+
 
 body.dark-theme {
   background: #121212;
