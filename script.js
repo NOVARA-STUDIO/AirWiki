@@ -259,8 +259,6 @@ function loadContent(section, event) {
 
     <div class="yellow-block">
       <h2>Маркери:</h2>
-      <ul>
-
         <div class="ppo-block">
           <ul>
             <h2>БПЛА</h2>
@@ -288,8 +286,6 @@ function loadContent(section, event) {
             <img src="img/marker/circle blue.png" alt="Аеробалістична ракета" class="img-small">
           </ul>
         </div>
-        
-      </ul>
     </div>
     
     <p>Усі характеристики є вигаданими та не є реальними.</p>
