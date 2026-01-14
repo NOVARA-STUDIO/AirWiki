@@ -25,7 +25,7 @@ function loadContent(section, event) {
       </iframe>   
       
       <h2>Актуальна версія: 0.23 (13.01.2026)</h2>
-      <div class="ppo-block">
+      <div class="yellow-block">
         <h2>Додано/змінено:</h2>
         <ul>
         
@@ -62,7 +62,7 @@ function loadContent(section, event) {
 
       </div>
 
-            <div class="ppo-block">
+            <div class="yellow-block">
         <h2>Зв’язатися з нами.</h2>
         <ul>
         <p>
@@ -77,7 +77,7 @@ function loadContent(section, event) {
     ppo: `
       <h1>Види ППО:</h1>
       
-      <div class="ppo-block">
+      <div class="yellow-block">
         <h2>Мобільна Вогнева Група (МВГ)</h2>
         <ul>
         
@@ -92,7 +92,7 @@ function loadContent(section, event) {
         </ul>
       
       </div>
-      <div class="ppo-block">
+      <div class="yellow-block">
         <h2>NASAMS</h2>
         <ul>
         
@@ -107,7 +107,7 @@ function loadContent(section, event) {
         </ul>
       </div>
 
-      <div class="ppo-block">
+      <div class="yellow-block">
         <h2>MIM-104 Patriot</h2>
         <ul>
         
@@ -127,7 +127,7 @@ function loadContent(section, event) {
     weaponsppo: `
       <h1>Види боєприпасів ППО:</h1>
       
-      <div class="ppo-block">
+      <div class="yellow-block">
         <h2>Куля</h2>
         <ul>
         
@@ -142,7 +142,7 @@ function loadContent(section, event) {
         </ul>
       
       </div>
-      <div class="ppo-block">
+      <div class="yellow-block">
         <h2>Air 1A</h2>
         <ul>
         
@@ -159,7 +159,7 @@ function loadContent(section, event) {
         <figure><figcaption>Зона захоплення цілі.</figcaption></figure>
       </div>
       
-      <div class="ppo-block">
+      <div class="yellow-block">
         <h2>Air 1B</h2>
         <ul>
         
@@ -181,7 +181,7 @@ function loadContent(section, event) {
     weapons: `
       <h1>Види зброї:</h1>
       
-      <div class="ppo-block">
+      <div class="yellow-block">
         <h2>Shahed-136</h2>
         <img src="img/weapons/shaheed136.png" alt="Shahed-136" class="img-small">
         <img src="img/weapons/shaheed136_n.png" alt="Shahed-136" class="img-small">
@@ -197,7 +197,7 @@ function loadContent(section, event) {
         </ul>
       </div>
 
-      <div class="ppo-block">
+      <div class="yellow-block">
         <h2>Shahed-238</h2>
         <img src="img/weapons/shaheed136_n_r.png" alt="Shahed-238" class="img-small">
         <ul>
@@ -211,7 +211,7 @@ function loadContent(section, event) {
         </ul>
       </div>
       
-      <div class="ppo-block">
+      <div class="yellow-block">
         <h2>Х-101</h2>
         <img src="img/weapons/x101.png" alt="Х-101" class="img-small">
         <ul>
@@ -226,7 +226,7 @@ function loadContent(section, event) {
         </ul>
       </div>
       
-      <div class="ppo-block">
+      <div class="yellow-block">
         <h2>Х-47М2 «Кинджал»</h2>
         <img src="img/weapons/Х47М2.png" alt="Х-47М2 «Кинджал»" class="img-small">
         <ul>
@@ -247,7 +247,7 @@ function loadContent(section, event) {
     map: `
     <h1>Гра</h1>
     
-    <div class="ppo-block">
+    <div class="yellow-block">
       <h2>Інше:</h2>
       <ul>
         
@@ -257,7 +257,7 @@ function loadContent(section, event) {
       </ul>
     </div>
 
-    <div class="ppo-block">
+    <div class="yellow-block">
       <h2>Маркери:</h2>
       <ul>
 
@@ -268,21 +268,21 @@ function loadContent(section, event) {
           </ul>
         </div>
 
-        <div class="ppo-block">
+        <div class="yellow-block">
           <ul>
             <h2>Реактивний БПЛА</h2>
             <img src="img/marker/circle purple.png" alt="Реактивний БПЛА" class="img-small">
           </ul>
         </div>
 
-        <div class="ppo-block">
+        <div class="yellow-block">
           <ul>
             <h2>Kрилата ракета</h2>
             <img src="img/marker/circle red.png" alt="Kрилата ракета" class="img-small">
           </ul>
         </div>
 
-        <div class="ppo-block">
+        <div class="yellow-block">
           <ul>
             <h2>Аеробалістична ракета</h2>
             <img src="img/marker/circle blue.png" alt="Аеробалістична ракета" class="img-small">
