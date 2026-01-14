@@ -253,7 +253,7 @@ function loadContent(section, event) {
     </div>
 
     <div class="ppo-block">
-      <h2>Маркери::</h2>
+      <h2>Маркери:</h2>
       <ul>
 
         <div class="ppo-block">
