@@ -205,3 +205,35 @@ body.dark-theme .sidebar li.active {
   transform: translateY(10px);
 }
 
+.yellow-block,
+.red-block {
+  opacity: 0;
+  transform: translateY(12px);
+  animation: blockIn 0.4s ease forwards;
+}
+
+@keyframes blockIn {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+.theme-toggle button {
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.theme-toggle button:active {
+  transform: scale(0.92);
+  box-shadow: 0 0 0 rgba(0,0,0,0);
+}
+
+
+img {
+  transition: transform 0.25s ease;
+}
+
+img:hover {
+  transform: scale(1.05);
+}
