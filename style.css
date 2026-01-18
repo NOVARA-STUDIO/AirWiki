@@ -3,7 +3,7 @@ body {
   font-family: Arial, sans-serif;
   background: #f4f4f4;
   color: #000;
-  transition: background 0.3s, color 0.3s;
+  transition: background 0.5s, color 0.5s;
 }
 
 .container {
