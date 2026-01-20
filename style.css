@@ -104,9 +104,9 @@ footer {
 .yellow2-block::before {
   content: "";
   position: absolute;
-  top: 0;
+  top: 10;
   left: 50;
-  width: 250px;   /* довжина риски */
+  width: 350px;   /* довжина риски */
   height: 4px;
   background: #ffd400;
   border-radius: 2px;
