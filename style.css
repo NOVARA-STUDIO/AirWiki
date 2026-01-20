@@ -187,6 +187,46 @@ footer {
 
 
 
+.Weapon-block {
+  position: relative;
+  padding-left: 16px;
+  margin-bottom: 24px;
+}
+
+.Weapon-block::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 4px;
+  height: 100%;
+  background: #2B2D42;
+  border-radius: 2px;
+}
+
+
+.Buildings-block {
+  position: relative;
+  padding-left: 16px;
+  margin-bottom: 24px;
+}
+
+
+.Buildings-block::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 4px;
+  height: 100%;
+  background: #6C757D;
+  border-radius: 2px;
+}
+
+
+
+
+
 .q-block {
   position: relative;
   padding-left: 16px;
