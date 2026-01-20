@@ -89,6 +89,8 @@ footer {
 
 
 
+
+
 .yellow-block {
   position: relative;
   padding-left: 16px;
@@ -106,6 +108,7 @@ footer {
   border-radius: 2px;
 }
 
+
 .red-block {
   position: relative;
   padding-left: 16px;
@@ -122,6 +125,67 @@ footer {
   background: #FF0000;
   border-radius: 2px;
 }
+
+
+
+
+
+.Air-M-block {
+  position: relative;
+  padding-left: 16px;
+  margin-bottom: 24px;
+}
+
+.Air-M-block::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 4px;
+  height: 100%;
+  background: #ffd400;
+  border-radius: 2px;
+}
+
+
+.Earth-M-block {
+  position: relative;
+  padding-left: 16px;
+  margin-bottom: 24px;
+}
+
+.Earth-M-block::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 4px;
+  height: 100%;
+  background: #FF0000;
+  border-radius: 2px;
+}
+  
+
+.Water-M-block {
+  position: relative;
+  padding-left: 16px;
+  margin-bottom: 24px;
+}
+
+.Water-M-block::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 4px;
+  height: 100%;
+  background: #FF0000;
+  border-radius: 2px;
+}
+
+
+
+
 
 .q-block {
   position: relative;
