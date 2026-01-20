@@ -13,7 +13,7 @@ if (localStorage.getItem('theme') === 'dark') {
 }
 
   const data = {
-    about: `
+    About: `
       <h1>Про гру</h1>
 
       <iframe frameborder="0" 
@@ -76,7 +76,19 @@ if (localStorage.getItem('theme') === 'dark') {
         © 2026 NOVARA STUDIO™
       </footer>
     `,
-    ppo: `
+
+
+
+
+
+
+
+   
+
+
+
+
+    Earth-transport: `
       <h1>Види ППО:</h1>
       
       <div class="yellow-block">
@@ -150,7 +162,12 @@ if (localStorage.getItem('theme') === 'dark') {
         © 2026 NOVARA STUDIO™
       </footer>
     `,
-    weaponsppo: `
+
+
+
+
+
+    PPO-weapons: `
       <h1>Види боєприпасів ППО:</h1>
       
       <div class="yellow-block">
@@ -202,7 +219,12 @@ if (localStorage.getItem('theme') === 'dark') {
         © 2026 NOVARA STUDIO™
       </footer>
     `,
-    weapons: `
+
+
+
+
+
+    Weapons: `
       <h1>Види зброї:</h1>
       
       <div class="yellow-block">
@@ -262,9 +284,18 @@ if (localStorage.getItem('theme') === 'dark') {
         © 2026 NOVARA STUDIO™
       </footer>
     `,
-    transport: `<h1>Види техніки:</h1>`,
-    buildings: `<h1>Види будівель:</h1>`,
-    map: `
+    
+
+
+
+
+    Buildings: `<h1>Види будівель:</h1>`,
+
+
+
+
+
+    Game: `
     <h1>Гра</h1>
     
     <div class="yellow-block">
